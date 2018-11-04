@@ -1,0 +1,22 @@
+{
+  "name": "petshop",
+  "version": "1.0.0",
+  "description": "Pet Shop Scheduler",
+  "main": "server.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec",
+    "start": "node server.js"
+  },
+  "author": "Shlomi Tamar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chai": "^4.2.0",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "mocha": "^5.2.0",
+    "moment": "^2.22.2",
+    "node-cron": "^2.0.3",
+    "socket.io": "^2.1.1"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "data": 
+    [
+        {
+            "name": "lion",
+            "time": "Every 2M"
+        },
+        {
+            "name": "rabbit",
+            "time": "Every 1M"
+        },
+        {
+            "name": "fish",
+            "time": "Every 1D at 17:36"
+        }
+    ]
+}
